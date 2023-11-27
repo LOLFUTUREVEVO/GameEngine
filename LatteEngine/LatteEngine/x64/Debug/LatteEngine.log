@@ -1,3 +1,3 @@
 ﻿  Source.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  LatteEngine.vcxproj -> C:\Users\karol\Desktop\LatteEngine\LatteEngine\x64\Debug\LatteEngine.exe
+C:\Users\karol\Desktop\LatteEngine\LatteEngine\LatteEngine\Source.cpp(73,1): error C2660: 'vkEnumerateDeviceExtensionProperties': function does not take 3 arguments
+C:\VulkanSDK\1.3.268.0\Include\vulkan\vulkan_core.h(4187,32): message : see declaration of 'vkEnumerateDeviceExtensionProperties'
